@@ -8,4 +8,5 @@ while 1 < array.length do
   puts i
   i += 1
 end
+puts i
 end
